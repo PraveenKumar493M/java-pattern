@@ -21,6 +21,7 @@
             for(int k=0;k<=rows-i;k++){
             System.out.print("* ");
             }  
+           
             System.out.println();
       }
     }
