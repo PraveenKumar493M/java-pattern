@@ -13,7 +13,6 @@ public static void main(String[] args)
             for(int m=rows;m>i;m--){
                 System.out.print("* ");
             }  
-
               System.out.println();
         }
 	}
