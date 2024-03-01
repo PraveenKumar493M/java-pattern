@@ -1,6 +1,5 @@
 // pyramid pattern
-public class Pattern
-{
+public class Pattern {
    public static void main(String[] args)
     {
 	int num=5;
