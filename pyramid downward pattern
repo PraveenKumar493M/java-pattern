@@ -10,7 +10,7 @@ public class Main {
             }
             for(int m=rows;m>i;m--){
                 System.out.print("* ");
-               }     
+               } 
                System.out.println();
         }
     }
