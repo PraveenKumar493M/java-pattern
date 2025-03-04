@@ -7,4 +7,5 @@ class Numberpattern1 {
            System.out.println("");
         }
     }
+
 }
