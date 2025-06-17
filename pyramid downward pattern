@@ -9,7 +9,6 @@ public class Main {
             for(int k=0;k<=rows-i;k++){
                 System.out.print("* ");
             }
-
             for(int m=rows;m>i;m--){
                 System.out.print("* ");
                }
