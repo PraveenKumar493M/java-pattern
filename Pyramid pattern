@@ -6,8 +6,8 @@ public class Pattern {
             for(int j=num;j>i;j--)  {
                 System.out.print("  ");
             }
-            for(int k=1;k<=i;k++)
-	    {
+
+            for(int k=1;k<=i;k++) {
                 System.out.print("* ");
             }
             for(int m=1;m<i;m++)
